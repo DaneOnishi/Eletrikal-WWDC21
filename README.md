@@ -8,3 +8,5 @@ Eletrikal was developed with the SpriteKit framework, which made it possible, in
 Sound effects were added through AVAudioPlayer (from AVFoundation), making it possible to apply auditory feedback to some actions. That resulted in a more immersive playground. The button sounds were taken from Epidemic Sound with free license and the background sounds from Sscheidl from Pixabay.
 Finally, adding assessment statuses by importing Playground Support was the icing on the cake, making the page transition much more organic and providing clear, actionable messages.
 All these technologies combined all together, allowed me to create a PlaygroundBook with different interactions for each page and made it easier to explain such complex topics in a fun way. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bUudFdBtFJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
